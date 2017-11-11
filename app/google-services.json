@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "868716859090",
+    "project_id": "firebase-coba-login"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868716859090:android:26e2c787651ed7ca",
+        "android_client_info": {
+          "package_name": "com.dios.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868716859090-s15q8raqsunds8acdkh88hav0mneijvj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "868716859090-3meadmdothg00se411066bmof5cp8b7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dios.googlelogin",
+            "certificate_hash": "d39c0be1ea2653ac6a01acb09d04054fb05f8a64"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNMTRtMC3coUdUioBVpPEXMizUc8hxpWw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-109543403-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
